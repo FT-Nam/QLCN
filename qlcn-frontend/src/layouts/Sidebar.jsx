@@ -7,13 +7,11 @@ const Sidebar = () => {
       <nav>
         <ul>
           <li><NavLink to="/hoc-vien">Hồ sơ cai nghiện</NavLink></li>
-          <li><NavLink to="/dieu-tri">Điều trị</NavLink></li>
-          <li><NavLink to="/tien-luu-ky">Tiền lưu ký</NavLink></li>
-          <li><NavLink to="/quan-trang">Quân trang</NavLink></li>
-          <li><NavLink to="/giao-duc">Giáo dục tư vấn</NavLink></li>
-          <li><NavLink to="/lao-dong">Lao động trị liệu</NavLink></li>
-          <li><NavLink to="/tham-gap">Thăm gặp</NavLink></li>
-          <li><NavLink to="/tai-khoan">Tài khoản</NavLink></li>
+          <li><NavLink to="/dieu-tri">Giáo dục tư vấn</NavLink></li>
+          <li><NavLink to="/tien-luu-ky">Cán bộ nhân viên</NavLink></li>
+          <li><NavLink to="/quan-trang">Tài sản</NavLink></li>
+          <li><NavLink to="/giao-duc">Buồng phòng</NavLink></li>
+          <li><NavLink to="/lao-dong">Vật tư y tế</NavLink></li>
         </ul>
       </nav>
     </aside>
